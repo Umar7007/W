@@ -1,0 +1,22 @@
+.l{
+    display: flex;
+   
+}
+.l p{
+    margin-left: 350px;
+}
+.k{
+    display: flex;
+}
+.k h1{
+    margin-top: 280px;
+    width: 590px;
+    margin-left: 50px;
+}
+button{
+    background-color: rgba(46, 49, 146, 1);
+    color: white;
+    border: none;
+    width: 170px;
+    height: 52px;
+}
